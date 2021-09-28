@@ -2,7 +2,7 @@
 
 <<<<<<< HEAD
 TestConflict
-
+local commit
 
 Test Conflict
 =======
